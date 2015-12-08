@@ -16,7 +16,7 @@ In more technical terms, here's what it does in order:
 
 Let's see it in action for the domain help.preyproject.com:
 
-![gif](https://giant.gfycat.com/KnobbyIncompleteFanworms.gif)
+[Webm demonstration](https://zippy.gfycat.com/KnobbyIncompleteFanworms.webm)
 
 Here's how you use the tool:
 
@@ -32,5 +32,3 @@ The `page_src` variable should be the URL you want to mimic. The `phishing_url` 
 There is a minified version available too if needed.
 
 In the future, I plan to update this tool so that the hacky base tag method is no longer needed but rather that all creds are sent back to the pentester/attacker via a XHR and everything is asynchronous.
-
-
